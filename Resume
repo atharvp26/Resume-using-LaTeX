@@ -1,0 +1,112 @@
+\documentclass{resume} 
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} 
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}}
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Atharv Prasad Paranjape} % Your name
+\address{Khed, Ratnagiri, Maharashtra} 
+\address{(+91)8552029673 \\ atharvp543@gmail.com}
+
+\begin{document}
+
+
+\begin{rSection}{Education}
+
+
+{\bf Gharda Institute Of Technology, Lavel} \hfill {\em June 2018 - June 2022} 
+\\ Bachelor of Engineering, Computer.\hfill { Overall CGPA: 9.58 }
+\\{\bf Dnyandeep Vidyamandir, Khed} \hfill {\em June 2017 - Feb 2018} 
+\\ HSC\hfill {Percentage : 94.62%}
+\\{\bf Dnyandeep Vidyamandir, Khed} \hfill {\em June 2015 - May 2016} 
+\\ SSC\hfill {Percentage : 98.80%}
+
+\end{rSection}
+
+\begin{rSection}{Career Objective}
+I am a student of BE Computer science who keeps keen enthusiasm in diverse IT fields. I like to solve problems with simplest possible approach and design similar solutions. I keep ability to learn new skills as per industry requirements and can be a good team player.
+\end{rSection}
+
+\begin{rSection}{Projects}
+{\bf Traffic sign detection using CNN}
+\\-Project using Convolutional Neural Network(CNN) which classifies and
+ recognizes traffic sign in the image with an accuracy of 94%.
+\\  - Model deployed as a web application using Flask framework.
+
+
+{\bf Credit card fraud detection model}
+\\  -A machine learning model based on Random Forest Classification 
+    algorithm based on the credit card transactions data and achieved 
+    accuracy score of 98\% in detecting a fraud transaction.
+    
+{\bf Cars details website}
+\\-A web based  project with option to select any car model and get its 
+  detailed information. The web application uses an API to fetch the 
+  required data about the selected car.
+\\-Deployed it on AWS server using AWS Amplify service
+
+{\bf Automatic cost sheet generation for raw material of a chemical industry}
+\\- A project for Gharda Chemicals Ltd.
+\\- Created a software that takes user input as the data for the raw material used in production of chemical compounds.
+\\- Software outputs a costsheet based on the values from data and also provides a section for plots and graphs
+\end{rSection}
+
+\begin{rSection}{Technical Strengths}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+Programming Languages \ & Python, C, HTML\  \\
+Web frameworks & Vanilla CSS , Bootstrap\\
+DB language  & SQL\\
+Domain skills & Data analysis using python, Machine Learning \\
+Tools  & VS Code, Jupyter Notebook, Spyder, Tableau\\
+Version Control & Github
+\end{tabular}
+
+\end{rSection}
+% 
+% 
+% \newpage
+\begin{rSection}{Work Experience}
+\begin{rSubsection}{The Sparks Foundation}{July 2021 - August 2021}{Data Science and Business Analyst Intern}{}
+ \item Worked on clustering and predictive models along with Exploratory Data Analysis
+
+\end{rSubsection}
+
+
+\end{rSection}
+% 
+
+\begin{rSection}{Certifications} 
+\item -HCIA (AI Associate)  Certification, Huawei Enterprises
+\item -Blockchain basics course University of buﬀalo , Coursera
+\item -Teamwork Skills course by University of colorado , Coursera 
+\item -Communication skills course by TCS
+\item -Search Engine Optimization course by UC Davis academy , Coursera
+
+\end{rSection}
+
+\begin{rSection}{Academic Achievements} 
+\item -Stood among first three ranks of my district in SSC and HSC examinations.
+\item -Awarded with Reliance Foundation's scholarship due to recognized and remarkable HSC performance.
+\item -Passed Cambridge English Test with 'A' grade.
+\item -Passed scholarship exams and different state level talent search exams with remarkable grades and rank.
+
+\end{rSection}
+
+\begin{rSection}{Extra-Curricular} 
+ \item -Awarded with Scout President Award.
+ \item -Participated in start-up competition called 'Ideathon'. Got selected for final stage and delivered pitch deck.
+ \item -Working as a regional head for a registered NGO 'Yuva Forum India Organization'.
+ \item -Worked as the overall co-ordinator for a National Level Technical Event named as 'Shodh2022' in college.
+\end{rSection}
+\begin{rSection}{Hobbies}
+ \item -Reading Books
+ \item -Writing articles and poems.
+ \item -Blogging
+ \item -Playing cricket, volleyball, chess
+ 
+\end{rSection}
+
+
+
+
+
+\end{document}
